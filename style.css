@@ -16,3 +16,12 @@ header{
 footer{
     border-top: 1px solid grey;
 }
+
+/*elemento id seleciona com #*/
+#nome-usuario{
+    font-weight:bold;
+}
+
+.texto-italico{
+    font-style: italic;
+}
